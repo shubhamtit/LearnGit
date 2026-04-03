@@ -5,7 +5,7 @@ def printname(name):
 name = "Shubham"
 
 
-mydata = 10
+mydata = 20
 
 printname(name)
 
