@@ -5,3 +5,7 @@ def printname(name):
 name = "Shubham"
 
 printname(name)
+
+
+def secondfunction(data):
+    return data
