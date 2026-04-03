@@ -4,6 +4,9 @@ def printname(name):
 
 name = "Shubham"
 
+
+data = 10
+
 printname(name)
 
 
