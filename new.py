@@ -7,9 +7,7 @@ name = "Shubham"
 printname(name)
 
 
-<<<<<<< HEAD
 def mainbranchfunction(data):
-=======
+    return data
 def secondfunction(data):
->>>>>>> shubham
     return data
