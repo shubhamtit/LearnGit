@@ -1,4 +1,7 @@
-name = "shubham"
+def printname(name):
+    print(name)
 
 
-print(name)
+name = "Shubham"
+
+printname(name)
